@@ -34,8 +34,10 @@ function processSessions() {
 
         const { missedByCustomer, missedByAdvisor } = getMissedMessages(customerData, advisorData);
 
+        const formattedSessionId = sessionId.replace(/^\d+-/, '');
+
         report.push({
-            sessionId,
+            sessionId: formattedSessionId,
             missedByCustomer,
             missedByAdvisor
         });
