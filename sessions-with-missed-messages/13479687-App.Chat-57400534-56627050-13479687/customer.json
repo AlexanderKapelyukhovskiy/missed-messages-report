@@ -1,0 +1,42 @@
+{
+    "sessionId": "13479687",
+    "receivedMessages": [
+        {
+            "fromUserId": 57400534,
+            "messageId": "d63b1800-70b1-4f88-a800-934cdee9f1a5",
+            "timetoken": 1740035249954
+        },
+        {
+            "fromUserId": 57400534,
+            "messageId": "03ee1a2b-8a93-4802-bc47-7ea6431b73de",
+            "timetoken": 1740035254430
+        }
+    ],
+    "sentMessages": [
+        {
+            "fromUserId": 56627050,
+            "messageId": "5ab7b1d4-30bb-49fe-a4f0-980cfdb167eb",
+            "timetoken": 1740035263694
+        },
+        {
+            "fromUserId": 56627050,
+            "messageId": "0c52b421-c382-4c0c-8407-3ec43eaec160",
+            "timetoken": 1740035313942
+        },
+        {
+            "fromUserId": 56627050,
+            "messageId": "3d5cd2a0-45d5-4ccb-8d3b-b7dbea7b3403",
+            "timetoken": 1740035333290
+        },
+        {
+            "fromUserId": 56627050,
+            "messageId": "280363c4-5127-4d2f-bae4-3b7fc972110a",
+            "timetoken": 1740035358289
+        },
+        {
+            "fromUserId": 56627050,
+            "messageId": "0a0e570b-4aa3-462c-8e01-f5bebee44db3",
+            "timetoken": 1740035408535
+        }
+    ]
+}

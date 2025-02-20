@@ -1,0 +1,352 @@
+{
+    "sessionId": "13479960",
+    "receivedMessages": [
+        {
+            "fromUserId": 56616332,
+            "messageId": "6114f5bd-938a-4ec9-847a-67d2c7fa48da",
+            "timetoken": 1740047113855
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "f0824c42-875f-4108-94f8-90651fa37a8a",
+            "timetoken": 1740047124999
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "137dfedd-85d5-4031-a819-30ebd06f06e8",
+            "timetoken": 1740047140683
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "9298cff4-8c74-47d1-a49c-1e66df2d69c5",
+            "timetoken": 1740047168081
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "5821d40e-6f74-43f4-9cda-c4cde466b339",
+            "timetoken": 1740047171901
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "a099c848-59d2-4e06-9778-29b94c29e6a6",
+            "timetoken": 1740047207516
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "430a287b-b8ae-4db5-ae81-95c7a5ed9d4a",
+            "timetoken": 1740047254764
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "5ea84541-e054-401f-8ab7-e65dc708b5b5",
+            "timetoken": 1740047317599
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "b5d69c4f-4011-41f0-b0d0-deada23495c2",
+            "timetoken": 1740047354728
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "27f9614e-45fc-473c-86e7-5545664d98c4",
+            "timetoken": 1740047389615
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "be2ab9dd-3fb0-4ff6-b568-82d3ac187281",
+            "timetoken": 1740047409788
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "d9c7cd02-1ee9-41dd-b4b5-3ea5bf9cfe5d",
+            "timetoken": 1740047465084
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "31b594c2-4c1d-4c00-8369-788950c9dbf9",
+            "timetoken": 1740047485203
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "71dba711-64ca-4d5c-90ac-22ac8f8202bb",
+            "timetoken": 1740047544327
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "028012ca-fa3c-48f6-bfc4-5e9567c190ef",
+            "timetoken": 1740047570647
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "5f138161-5f88-423e-b7d2-6dee3b2a3031",
+            "timetoken": 1740047621368
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "008344a6-6a65-4a00-9829-f2a9365d3eac",
+            "timetoken": 1740047655473
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "0066b654-58ba-4f32-8200-97df49226721",
+            "timetoken": 1740047664110
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "60a71a19-27de-456b-b2af-7ce891dc2e82",
+            "timetoken": 1740047703453
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "2381583e-74f2-45e3-bae5-2948b5e8a608",
+            "timetoken": 1740047757053
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "47fc2ab7-8b2c-4e54-a66a-87217ec8fc63",
+            "timetoken": 1740047775541
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "53fae711-854d-48e1-95ed-6d44fd28282a",
+            "timetoken": 1740047799427
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "506ed91c-6b8f-4cd8-ab85-ec1de28fdf00",
+            "timetoken": 1740047821054
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "53299b80-ea0f-4edb-8969-d9139882bc25",
+            "timetoken": 1740047840132
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "2cc70d27-9b00-48a4-8a0e-7f824731e011",
+            "timetoken": 1740047845228
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "2031f1b0-83ce-44aa-985c-354b6f05b4c3",
+            "timetoken": 1740047873499
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "83931161-5193-4c81-a646-19c353032d4f",
+            "timetoken": 1740047897022
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "1673d8d0-2f83-457d-a0cb-c0d996fb3ecf",
+            "timetoken": 1740047919922
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "087357e1-a178-459b-8d13-2239f8c775e4",
+            "timetoken": 1740047948537
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "e505a51a-5dc5-4766-82db-bfeb879636c5",
+            "timetoken": 1740047962215
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "1551d73f-9972-4f79-86a1-685d07964513",
+            "timetoken": 1740047979888
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "b57ff20b-f8ed-424e-8f08-b849184c41be",
+            "timetoken": 1740048021112
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "5d7ae324-4eef-4017-9b6d-45d09bab6685",
+            "timetoken": 1740048028486
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "12bff4c8-5a28-4d69-a79c-5327fcfc3fc3",
+            "timetoken": 1740048072577
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "edce984c-6f8b-4b4c-b2d7-606b6eb639e4",
+            "timetoken": 1740048092053
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "66587ee7-7697-4488-8b89-4c7d8742728b",
+            "timetoken": 1740048200139
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "81103173-d66c-43a3-9f4f-1f00789128fa",
+            "timetoken": 1740048253841
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "b105be0c-37be-4ef3-920e-cdbbadc80f33",
+            "timetoken": 1740048277743
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "1c7801e0-ec5c-4f98-83ac-54a7fe9aabca",
+            "timetoken": 1740048315667
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "05dbec9c-085f-43a5-936c-a4713f77c7e3",
+            "timetoken": 1740048323172
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "aea2f925-bdfd-4f0e-90c7-a9ccb8957c61",
+            "timetoken": 1740048333517
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "21852b97-72b2-40ed-ac3e-03451b355943",
+            "timetoken": 1740048354084
+        },
+        {
+            "fromUserId": 56616332,
+            "messageId": "dea1866a-c367-4406-b28d-61b09ee1b05c",
+            "timetoken": 1740048383560
+        }
+    ],
+    "sentMessages": [
+        {
+            "fromUserId": 12104982,
+            "messageId": "f10c7dbc-f1db-49f7-ac78-e66dc4c3cdb2",
+            "timetoken": 1740047116978
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "73e81c86-d108-4c11-9f82-8550f129b406",
+            "timetoken": 1740047214049
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "17e9a8c9-6fbd-4846-aa27-e7ec92ac94cf",
+            "timetoken": 1740047248895
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "accd839e-e9e6-4c63-828a-ebe116df5147",
+            "timetoken": 1740047305296
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "15eafc08-a905-48e8-bdac-4c24b00af59a",
+            "timetoken": 1740047321720
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "a59df2d6-d52e-4e06-8143-dce12f559e02",
+            "timetoken": 1740047373073
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "78ec606b-2ed7-49d9-a5e3-8b3527973857",
+            "timetoken": 1740047395161
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "377ad453-e820-43b7-8616-96996bc4790b",
+            "timetoken": 1740047429252
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "1ef315f0-5084-4a4f-84f1-3913da974e3c",
+            "timetoken": 1740047499608
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "cce732e7-f949-41d6-b0f4-85c42e60f335",
+            "timetoken": 1740047539947
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "907e5229-44a1-4214-804d-fbd7de694023",
+            "timetoken": 1740047653779
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "38bf6e74-d4f8-4551-88ee-2376b9f98d08",
+            "timetoken": 1740047724086
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "50c80874-ed3b-48fe-aa01-c4dd5b30ffd4",
+            "timetoken": 1740047794386
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "fef2c2f4-a986-447d-a3ef-fc9e78cef4ef",
+            "timetoken": 1740047813536
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "9bca2831-20fa-4963-8d65-855cce6b4540",
+            "timetoken": 1740047835453
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "bc41e9e1-ad9c-4c02-9113-ce6ad6d217fc",
+            "timetoken": 1740047852519
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "2a0a240c-2e15-4202-a8dd-06e161c73844",
+            "timetoken": 1740047902447
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "6707692a-def7-4d5d-b550-e7badf51625b",
+            "timetoken": 1740047948496
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "1559f73a-6fc3-4c72-9c50-2be8cfa6a670",
+            "timetoken": 1740047990635
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "fcdeff3d-7c23-487f-99ec-105cc13dddbc",
+            "timetoken": 1740048005869
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "4113743e-f757-42f1-bf3b-80048470accf",
+            "timetoken": 1740048012475
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "1cee0a53-e344-49a6-93cf-c3af897b9ae9",
+            "timetoken": 1740048133843
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "02159371-531a-46dd-99ac-336ef73249f8",
+            "timetoken": 1740048269540
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "8a2fe73f-506a-4e2a-b89e-866b8b7283fb",
+            "timetoken": 1740048284519
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "bfc8f0bd-48ca-4a7d-857e-a321a3c8af7c",
+            "timetoken": 1740048321441
+        },
+        {
+            "fromUserId": 12104982,
+            "messageId": "ba56767a-101b-479d-b0a2-47bfaba16e79",
+            "timetoken": 1740048365014
+        }
+    ]
+}

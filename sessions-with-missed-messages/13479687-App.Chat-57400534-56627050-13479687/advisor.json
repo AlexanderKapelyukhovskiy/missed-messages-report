@@ -1,0 +1,67 @@
+{
+    "sessionId": "13479687",
+    "receivedMessages": [
+        {
+            "fromUserId": 56627050,
+            "messageId": "5ab7b1d4-30bb-49fe-a4f0-980cfdb167eb",
+            "timetoken": 1740035263966
+        },
+        {
+            "fromUserId": 56627050,
+            "messageId": "0c52b421-c382-4c0c-8407-3ec43eaec160",
+            "timetoken": 1740035314206
+        },
+        {
+            "fromUserId": 56627050,
+            "messageId": "3d5cd2a0-45d5-4ccb-8d3b-b7dbea7b3403",
+            "timetoken": 1740035333609
+        },
+        {
+            "fromUserId": 56627050,
+            "messageId": "280363c4-5127-4d2f-bae4-3b7fc972110a",
+            "timetoken": 1740035358604
+        },
+        {
+            "fromUserId": 56627050,
+            "messageId": "0a0e570b-4aa3-462c-8e01-f5bebee44db3",
+            "timetoken": 1740035408943
+        }
+    ],
+    "sentMessages": [
+        {
+            "fromUserId": 57400534,
+            "messageId": "d63b1800-70b1-4f88-a800-934cdee9f1a5",
+            "timetoken": 1740035249805
+        },
+        {
+            "fromUserId": 57400534,
+            "messageId": "03ee1a2b-8a93-4802-bc47-7ea6431b73de",
+            "timetoken": 1740035254230
+        },
+        {
+            "fromUserId": 57400534,
+            "messageId": "a64721ef-f3e5-49cd-abaf-ab5406da2902",
+            "timetoken": 1740035307862
+        },
+        {
+            "fromUserId": 57400534,
+            "messageId": "498fae4a-1381-4745-8632-3dd556c73f57",
+            "timetoken": 1740035361135
+        },
+        {
+            "fromUserId": 57400534,
+            "messageId": "8910eec4-b59f-4c53-8ef9-418f8ae9ac7f",
+            "timetoken": 1740035382402
+        },
+        {
+            "fromUserId": 57400534,
+            "messageId": "648188dd-47c5-4802-9063-fe2815a4bd27",
+            "timetoken": 1740035413970
+        },
+        {
+            "fromUserId": 57400534,
+            "messageId": "ea7fd2ba-d560-42c2-8714-da8da759e624",
+            "timetoken": 1740035418655
+        }
+    ]
+}
