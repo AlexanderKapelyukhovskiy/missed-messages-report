@@ -1,0 +1,142 @@
+{
+    "sessionId": "13478750",
+    "receivedMessages": [
+        {
+            "fromUserId": 5262276,
+            "messageId": "50890c44-afdf-487f-8636-3d7888867714",
+            "timetoken": 1740018486995
+        },
+        {
+            "fromUserId": 5262276,
+            "messageId": "f449009e-0f9b-4395-83e4-83ce3ebe6277",
+            "timetoken": 1740018503481
+        },
+        {
+            "fromUserId": 5262276,
+            "messageId": "f7b28972-43c7-4142-b5ea-56dc9f4e7ce0",
+            "timetoken": 1740018551918
+        },
+        {
+            "fromUserId": 5262276,
+            "messageId": "ceb09874-ee41-4e4a-b282-1cca4ca9098a",
+            "timetoken": 1740018567480
+        },
+        {
+            "fromUserId": 5262276,
+            "messageId": "8891c6c2-6f9b-425c-ba4e-203e64cbeb65",
+            "timetoken": 1740018610795
+        },
+        {
+            "fromUserId": 5262276,
+            "messageId": "698207df-e9ce-4664-863a-9d0eb7c5c3cd",
+            "timetoken": 1740018628924
+        },
+        {
+            "fromUserId": 5262276,
+            "messageId": "fd32f16b-b933-440e-b063-de4d8302e6e7",
+            "timetoken": 1740018646021
+        },
+        {
+            "fromUserId": 5262276,
+            "messageId": "3a38bb6f-1e9c-4f19-ae01-511a6548f602",
+            "timetoken": 1740018737055
+        },
+        {
+            "fromUserId": 5262276,
+            "messageId": "c5d347a5-1fb2-46dc-8c04-a8b64094525f",
+            "timetoken": 1740018753364
+        },
+        {
+            "fromUserId": 5262276,
+            "messageId": "c66e6a6e-c865-4e6f-9b18-0a6efa8e26a9",
+            "timetoken": 1740018775351
+        },
+        {
+            "fromUserId": 5262276,
+            "messageId": "88672fe8-1a1b-46a0-aa88-081e031d7f84",
+            "timetoken": 1740018847949
+        }
+    ],
+    "sentMessages": [
+        {
+            "fromUserId": 56447243,
+            "messageId": "6f9998eb-5545-4f30-9417-e15bfd668210",
+            "timetoken": 1740018480241
+        },
+        {
+            "fromUserId": 56447243,
+            "messageId": "5715fb8f-8b98-4b12-984f-371700da5150",
+            "timetoken": 1740018483327
+        },
+        {
+            "fromUserId": 56447243,
+            "messageId": "91571a3a-b0e3-4667-b12b-6d98ceee3401",
+            "timetoken": 1740018492341
+        },
+        {
+            "fromUserId": 56447243,
+            "messageId": "88519ed6-290e-421f-aeb5-e93c0c978e3b",
+            "timetoken": 1740018507139
+        },
+        {
+            "fromUserId": 56447243,
+            "messageId": "510547cc-57d3-4017-b6e8-e284c4a005e7",
+            "timetoken": 1740018533115
+        },
+        {
+            "fromUserId": 56447243,
+            "messageId": "1d1479bd-2785-482a-ba9b-651ed855963b",
+            "timetoken": 1740018546980
+        },
+        {
+            "fromUserId": 56447243,
+            "messageId": "b44b4fd4-8ca5-48a2-a2a0-bd8ee1aa30ec",
+            "timetoken": 1740018572060
+        },
+        {
+            "fromUserId": 56447243,
+            "messageId": "c31b8ede-f35c-438d-be23-0a2f9d54d0b2",
+            "timetoken": 1740018609391
+        },
+        {
+            "fromUserId": 56447243,
+            "messageId": "f0911748-19a3-41a0-8a21-4914492e362e",
+            "timetoken": 1740018660294
+        },
+        {
+            "fromUserId": 56447243,
+            "messageId": "2c887569-6304-46f7-97fc-f00f88360b4a",
+            "timetoken": 1740018670491
+        },
+        {
+            "fromUserId": 56447243,
+            "messageId": "ee5cc8af-0213-40ec-9c6b-59e600d6a4b2",
+            "timetoken": 1740018712823
+        },
+        {
+            "fromUserId": 56447243,
+            "messageId": "c4e90b03-ddd8-4572-ab46-b45ae63ecb31",
+            "timetoken": 1740018737231
+        },
+        {
+            "fromUserId": 56447243,
+            "messageId": "6f31b4c2-f99c-4b77-a572-2be463ff1104",
+            "timetoken": 1740018794459
+        },
+        {
+            "fromUserId": 56447243,
+            "messageId": "f0076e95-f3f5-48ba-b838-6145b8e529ab",
+            "timetoken": 1740018816711
+        },
+        {
+            "fromUserId": 56447243,
+            "messageId": "a9891e27-8573-4eb6-bb86-2b94203422cc",
+            "timetoken": 1740018873652
+        },
+        {
+            "fromUserId": 56447243,
+            "messageId": "33188990-c050-48d7-8d27-a7ef9f073b63",
+            "timetoken": 1740018881963
+        }
+    ]
+}

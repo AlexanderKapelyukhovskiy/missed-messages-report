@@ -1,0 +1,77 @@
+{
+    "sessionId": "13478856",
+    "receivedMessages": [
+        {
+            "fromUserId": 56068413,
+            "messageId": "af60bfa8-a124-4c0b-91ce-e681c2590594",
+            "timetoken": 1740019992822
+        },
+        {
+            "fromUserId": 56068413,
+            "messageId": "480f3e6b-5ccb-4ab5-8db5-68e886a5b678",
+            "timetoken": 1740020001010
+        },
+        {
+            "fromUserId": 56068413,
+            "messageId": "1eae4de1-f872-4bbb-9c1d-b53103224f03",
+            "timetoken": 1740020023850
+        },
+        {
+            "fromUserId": 56068413,
+            "messageId": "d602b63e-63de-45d6-85e9-235f38c4a65e",
+            "timetoken": 1740020031015
+        }
+    ],
+    "sentMessages": [
+        {
+            "fromUserId": 17236931,
+            "messageId": "0a893b75-a256-49bb-b646-75caafde4363",
+            "timetoken": 1740020004223
+        },
+        {
+            "fromUserId": 17236931,
+            "messageId": "2fdb6593-7435-4e5f-8246-12c504a4d8e3",
+            "timetoken": 1740020070835
+        },
+        {
+            "fromUserId": 17236931,
+            "messageId": "433a0cb9-56cf-48cd-a366-47af53a42dc0",
+            "timetoken": 1740020074405
+        },
+        {
+            "fromUserId": 17236931,
+            "messageId": "a939d664-111c-4c56-b441-0c76096f74bb",
+            "timetoken": 1740020121083
+        },
+        {
+            "fromUserId": 17236931,
+            "messageId": "94076baf-bd30-4a02-a517-99cdcd18dc7f",
+            "timetoken": 1740020132295
+        },
+        {
+            "fromUserId": 17236931,
+            "messageId": "ecaf7ffc-6838-4414-94b0-35e7641d34ab",
+            "timetoken": 1740020137548
+        },
+        {
+            "fromUserId": 17236931,
+            "messageId": "228a51dd-7de1-4fa1-b3f3-9eb709c5846d",
+            "timetoken": 1740020147711
+        },
+        {
+            "fromUserId": 17236931,
+            "messageId": "cb6f9211-b6ec-48cf-bc49-169adb94ee69",
+            "timetoken": 1740020211933
+        },
+        {
+            "fromUserId": 17236931,
+            "messageId": "5b4475ba-d9fc-43e0-b32a-c6619be71822",
+            "timetoken": 1740020279572
+        },
+        {
+            "fromUserId": 17236931,
+            "messageId": "cbeb501a-df6d-4726-9128-29ae4f19a5d9",
+            "timetoken": 1740020320671
+        }
+    ]
+}
